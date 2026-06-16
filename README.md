@@ -1,47 +1,86 @@
-# Hi 👋 I'm Ashmitha
+<h1 align="center">Hi 👋, I'm Ashmitha S V</h1>
+
+<h3 align="center">
+Computer Science Engineering Student | AI & Computer Vision Enthusiast
+</h3>
+
+<p align="center">
+Building AI-powered web applications using Python, Flask, Machine Learning and Computer Vision.
+</p>
+
+---
+
+## 👩‍💻 About Me
 
 🎓 Computer Science Engineering Student
 
-💻 Interested in AI, Machine Learning, Computer Vision and Full Stack Development
+🏫 Sri Ramakrishna Engineering College, Coimbatore
+
+📊 CGPA: 8.78 / 10
+
+🤖 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full Stack Development
 
 ---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,mongodb,git,vscode" />
-</p>
-## 🚀 Skills
+## 🚀 Tech Stack
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- Flask
-- MySQL
-- MongoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
+</p>
+
+### AI / ML
+
 - OpenCV
 - MediaPipe
-- Scikit-Learn
+- Machine Learning
+- Flask
+- Data Processing
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🧘 Yoga Practice using Computer Vision
+### 🧘 Enhancing Yoga Practice using Computer Vision
 
-Real-time yoga pose detection and correction using OpenCV and MediaPipe.
+- Real-time pose detection
+- Pose accuracy analysis
+- Visual feedback system
+- MediaPipe + Flask integration
 
-### 👁️ Eye Strain and Sleep Quality Estimator
+### 👁️ AI-Based Eye Strain and Sleep Quality Estimator
 
-AI-powered system for monitoring eye strain and estimating sleep quality.
+- Eye strain detection
+- Blink rate analysis
+- Sleep quality estimation
+- Real-time monitoring
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
-Frontend Development Intern at censoware technologies LLP
+### Frontend Development Intern — Techvolt
 
-Full Stack Development Intern at techvolt Pvt Ltd
+- HTML
+- CSS
+- JavaScript
+
+### Frontend Development Intern — Censoware Technologies
+
+- React.js
+- Bootstrap
+- Responsive UI Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmitha2802&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmitha2802&layout=compact&theme=tokyonight)
 
 ---
 
@@ -50,3 +89,14 @@ Full Stack Development Intern at techvolt Pvt Ltd
 - Data Structures & Algorithms
 - Machine Learning
 - Backend Development
+- Building Real World Applications
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/ashmitha-sv
+
+GitHub: github.com/Ashmitha2802
+
+LeetCode: leetcode.com/u/ashmitha2817
