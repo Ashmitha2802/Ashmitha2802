@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋 I'm Ashmitha
 
-<!--
-**Ashmitha2802/Ashmitha2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in AI, Machine Learning, Computer Vision and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,mysql,mongodb,git,vscode" />
+</p>
+## 🚀 Skills
+
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- Flask
+- MySQL
+- MongoDB
+- OpenCV
+- MediaPipe
+- Scikit-Learn
+
+---
+
+## 📂 Projects
+
+### 🧘 Yoga Practice using Computer Vision
+
+Real-time yoga pose detection and correction using OpenCV and MediaPipe.
+
+### 👁️ Eye Strain and Sleep Quality Estimator
+
+AI-powered system for monitoring eye strain and estimating sleep quality.
+
+---
+
+## 💼 Experience
+
+Frontend Development Intern at censoware technologies LLP
+
+Full Stack Development Intern at techvolt Pvt Ltd
+
+---
+
+## 🎯 Current Focus
+
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
