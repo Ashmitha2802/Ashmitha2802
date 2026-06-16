@@ -29,7 +29,7 @@ Building AI-powered web applications using Python, Flask, Machine Learning and C
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
 </p>
 
 ### AI / ML
@@ -88,15 +88,13 @@ Building AI-powered web applications using Python, Flask, Machine Learning and C
 
 - Data Structures & Algorithms
 - Machine Learning
-- Backend Development
+- Full Stack Development
 - Building Real World Applications
 
 ---
 
 ### 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/ashmitha-sv
-
-GitHub: github.com/Ashmitha2802
-
-LeetCode: leetcode.com/u/ashmitha2817
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashmitha-sv)
+- 💻 [GitHub](https://github.com/Ashmitha2802)
+- 🧩 [LeetCode](https://leetcode.com/u/ashmitha2817)
