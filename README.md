@@ -16,7 +16,7 @@ Building AI-powered web applications using Python, Flask, Machine Learning and C
 
 🏫 Sri Ramakrishna Engineering College, Coimbatore
 
-📊 CGPA: 8.78 / 10
+📊 CGPA: 8.85 / 10
 
 🤖 Interested in:
 - Artificial Intelligence
