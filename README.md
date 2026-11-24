@@ -1,100 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ashmitha S V</h1>
+# Hi 👋, I'm Ashmitha S V
 
-<h3 align="center">
-Computer Science Engineering Student | AI & Computer Vision Enthusiast
-</h3>
+### Computer Science Engineering Student | Full Stack & AI/ML Developer
 
-<p align="center">
-Building AI-powered web applications using Python, Flask, Machine Learning and Computer Vision.
-</p>
+Building AI-powered web applications with Python, React, FastAPI, Computer Vision and Agentic AI.
+
+🌐 **Portfolio:** [ashmitha-portfolio.vercel.app](https://ashmitha-portfolio.vercel.app)
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student
-
-🏫 Sri Ramakrishna Engineering College, Coimbatore
-
-📊 CGPA: 8.85 / 10
-
-🤖 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Full Stack Development
+- 🎓 B.E. Computer Science — Sri Ramakrishna Engineering College, Coimbatore
+- 📊 CGPA: 8.85 / 10
+- 🥇 First Prize — Project Expo & Paper Presentation, TRENGEST 2K25
+- 💼 2× Frontend Development Intern
+- 📍 Coimbatore, Tamil Nadu
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### AI / ML
-
-- OpenCV
-- MediaPipe
-- Machine Learning
-- Flask
-- Data Processing
-
----
-
-## 📂 Featured Projects
-
-### 🧘 Enhancing Yoga Practice using Computer Vision
-
-- Real-time pose detection
-- Pose accuracy analysis
-- Visual feedback system
-- MediaPipe + Flask integration
-
-### 👁️ AI-Based Eye Strain and Sleep Quality Estimator
-
-- Eye strain detection
-- Blink rate analysis
-- Sleep quality estimation
-- Real-time monitoring
+**AI/ML:** OpenCV · MediaPipe · Scikit-learn · XGBoost · CatBoost · LLMs · Agentic AI · Multi-Agent Systems
 
 ---
 
-## 💼 Internship Experience
+## 🚀 Featured Projects
 
-### Frontend Development Intern — Techvolt
+### 🎙️ [AI Voice Learning Tutor](https://github.com/Ashmitha2802/AI-Voice-Learning-Tutor)
+Multi-agent learning assistant (Teaching, Quiz, Notes, Resource agents) with voice interaction, smart notes and one-click PDF export.
+`React` `Vite` `Tailwind CSS` `FastAPI` `OpenRouter API`
 
-- HTML
-- CSS
-- JavaScript
+### 👁️ [AI Eye Strain & Sleep Quality Estimator](https://github.com/Ashmitha2802/Eye-strain-and-sleep-quality-estimator)
+Real-time eye strain detection using blink rate, EAR and yawning detection. **93.86% accuracy** with Random Forest, XGBoost and CatBoost.
+`Python` `Flask` `OpenCV` `MediaPipe`
 
-### Frontend Development Intern — Censoware Technologies
+### 🧘 [Yoga Practice using Computer Vision](https://github.com/Ashmitha2802/Yoga-practice-using-Computer-Vision)
+Real-time yoga pose detection and accuracy feedback using MediaPipe keypoints. **91% accuracy.**
+`Python` `MediaPipe` `Machine Learning` `Flask`
 
-- React.js
-- Bootstrap
-- Responsive UI Development
+### ⏳ [Time Capsule](https://github.com/Ashmitha2802/time-capsule)
+Responsive React web app built during my frontend internship at Censoware Technologies, with reusable UI components and page navigation.
+`React` `Bootstrap` `JavaScript`
+
+---
+
+## 💼 Experience
+
+**Frontend Development Intern — Censoware Technologies** (Dec 2025)
+Built *Time Capsule* with React and Bootstrap; responsive, reusable UI components.
+
+**Frontend Development Intern — Techvolt** (Jun 2025)
+Built responsive interfaces with React.js and Bootstrap; reusable components, forms and navigation.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashmitha2802&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmitha2802&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Focusing On
 
+- Agentic AI & LLM applications
 - Data Structures & Algorithms
-- Machine Learning
-- Full Stack Development
-- Building Real World Applications
+- Full Stack Development (React + FastAPI)
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashmitha-sv)
-- 💻 [GitHub](https://github.com/Ashmitha2802)
-- 🧩 [LeetCode](https://leetcode.com/u/ashmitha2817)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmitha-sv)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashmitha2817)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashmitha2802@gmail.com)
