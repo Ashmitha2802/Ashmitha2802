@@ -57,10 +57,10 @@ Responsive React web app built during my frontend internship at Censoware Techno
 ## 💼 Experience
 
 **Frontend Development Intern — Censoware Technologies** (Dec 2025)
-Built *Time Capsule* with React and Bootstrap; responsive, reusable UI components.
+Built *Time Capsule* using React and Bootstrap; created responsive, reusable UI components with page navigation.
 
 **Frontend Development Intern — Techvolt** (Jun 2025)
-Built responsive interfaces with React.js and Bootstrap; reusable components, forms and navigation.
+Built responsive web pages using HTML, CSS and JavaScript, including forms and navigation components.
 
 ---
 
